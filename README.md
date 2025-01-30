@@ -22,9 +22,6 @@ As a Business Intelligence professional with over 13 years of experience in Acad
 - Help businesses make data-driven decisions
 - Optimize BI workflows for efficiency
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwjb)
 
 ### Recent Projects
 
@@ -48,6 +45,9 @@ Toronto, Canada
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rizwjb)
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwjb)
 
 Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
 
