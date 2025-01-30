@@ -46,7 +46,7 @@ Please visit my [GitHub Repositories](https://github.com/rizwjb?tab=repositories
 
 Toronto, Canada
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=franciscomecano)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rizwjb)
 
 
 Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
