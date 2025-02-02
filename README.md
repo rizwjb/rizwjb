@@ -51,6 +51,8 @@ Toronto, Canada
 
 Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
 
+![Profile Visits](https://komarev.com/ghpvc/?username=rizwjb&label=Profile%20Visits&color=green&style=plastic)
+
 <!---
 rizwjb/rizwjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
