@@ -31,7 +31,7 @@ Here are a few highlights from my GitHub repositories:
 - Project B - Developing interactive dashboards in Tableau to analyze customer satisfaction data and identify areas for improvement.
 - Project C - Utilizing data modeling and ETL techniques to create a data warehouse for enhanced analytics capabilities.
 
-Please visit my [GitHub Repositories](https://github.com/rizwjb?tab=repositories) for more projects and code samples.
+Please visit my [Work](https://rizwjb.github.io/Dashboards/) for more projects and code samples.
 
 ## Contact Me
 
